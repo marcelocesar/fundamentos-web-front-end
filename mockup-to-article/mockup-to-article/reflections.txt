@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+ * Analisar o mockup em pdf e verificar qual melhor estratégia seguir, novas tags <s>, <hr>, etc.   
+ * Achei tudo fácil.
+ * Até momento nada foi difícil.
+ * Procurei definir quais tags se encaixaria melhor para deixar o HTML mais parecido com o mockup.
+
