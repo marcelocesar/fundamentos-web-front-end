@@ -15,14 +15,14 @@ body {
 
 .card h3 {
     font-size: 28px;
-    padding-bottom: 20px;
-    margin: 0;
+    margin: 0 0 15px;
 }
 
 .card img{
+    border: 1px solid #cccccc;
     width: 300px;
     height: 200px;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .card-description {
