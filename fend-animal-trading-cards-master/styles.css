@@ -1,1 +1,51 @@
 /* add your CSS here */
+
+body {
+    margin: 15px;
+}
+
+.card {
+    width: 300px;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    -webkit-box-shadow: 10px 10px 3px rgb(230, 230,  230);
+    -moz-box-shadow: 10px 10px 3px rgb(230, 230,  230);
+    box-shadow: 10px 10px 3px rgb(230, 230,  230);
+}
+
+.card h3 {
+    font-size: 28px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.card img{
+    width: 300px;
+    height: 200px;
+    padding-bottom: 15px;
+}
+
+.card-description {
+    border: 1px solid #cccccc;
+    margin: 0;
+    padding: 15px;
+    width: 270px;
+}
+
+.card-description ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 15px;;
+}
+
+.card-description ul span {
+    font-weight: bold;
+}
+
+.card-description p {
+    margin:  0 0 15px;
+}
+
+.italic {
+    font-style: italic;
+}
