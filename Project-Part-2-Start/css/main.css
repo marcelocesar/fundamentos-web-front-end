@@ -1,0 +1,32 @@
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+article, 
+hr,
+footer {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  margin: 0 auto 1em auto;
+  width: 800px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
