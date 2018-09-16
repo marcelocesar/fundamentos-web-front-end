@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/programacao-web-javascript/3.19-quiz-switch.js"
+            "program": "${workspaceFolder}/programacao-web-javascript/4.8-find-mysent.js"
         }
     ]
 }
